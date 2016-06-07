@@ -7,6 +7,8 @@ Team UIDs: 104436427, 304437322
 Team Emails: jcherian@ucla.edu, ckenny9739@g.ucla.edu
 File: README.txt
 
+For iOS Code Please Visit: https://github.com/jcherianucla/Scavenger
+
 README.txt:
 	This file is just a quick brief on what the submission contains.
 
